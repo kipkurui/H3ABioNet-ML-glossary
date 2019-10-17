@@ -13,4 +13,4 @@ authors:
 ---
 
 
-The computer learns from data input, and then uses the learning to classify new observations into different groups. This may be simple (bi-class) like whether a person is male or female; or multiclass e.g. document classification. Some examples include: Linear classifiers (logistic regression, naïve Bayes classifier), Support Vector Machines, Decision Treess, Boosted Trees, Random Forest, Neural Networks, Nearest Neighbour. 
+The computer learns from data input and then uses the learning to categorize new observations into different groups; can be simple (bi-class) like whether a person is male or female, or multiclass, e.g. document classification. Some examples include Linear classifiers (logistic regression, naïve Bayes classifier), Support Vector Machines, Decision Trees, Boosted Trees, Random Forest, Neural Networks, Nearest Neighbour. 
