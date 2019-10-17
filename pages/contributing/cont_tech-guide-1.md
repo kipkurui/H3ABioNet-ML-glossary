@@ -9,7 +9,7 @@ folder: contributing
 author_profile: true
 authors:
  - Azza_Ahmed
-- Caleb Kibet
+ - Caleb Kibet
 ---
 
 ## How to contribute {#overview}
