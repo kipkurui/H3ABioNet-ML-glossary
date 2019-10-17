@@ -9,16 +9,17 @@ permalink: cont_lang-style.html
 folder: contributing
 author_profile: true
 authors:
- - Azza_Ahmed 
+ - Azza_Ahmed
+ - Caleb Kibet
 ---
 
 ## Tips {#tips}
 
 This is not a holistic list, but a start!
 
-1. Use a consistent writing style for a given SOP and its headings: either authoritative (do this, then that), or declarative (doing step x, doing step y).  Do not mix.
-2. Use footnotes are for citations and bibliography. This eases the task of finding the said cited reference
+1. Use a consistent writing style for a given machine learning term
+2. Use footnotes for citations and bibliography. This eases the task of finding the said cited reference
 3. Glossary terms: Identify common abbreviations and key words for tooltip expansion. This helps a first time user know readily what they stand for
-4. When mentioning tools, try to provide either links or proper citation details
-5. Comment on common pitfalls if any
+4. When mentioning machine learning terms, try to provide either links or proper citation details
+5. Comment on common misconcetions where available
 
